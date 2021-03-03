@@ -10,4 +10,8 @@
 #include <vector>
 #include <array>
 
+class Interpreter {
+
+};
+
 #endif
